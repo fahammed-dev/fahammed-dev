@@ -47,9 +47,6 @@
     <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="30" height="30"/>&nbsp;
     <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;
     <img src="./assets/prisma-3.svg" title="Prisma" alt="Prisma" width="30" height="30"/>&nbsp;
-<!--     <img src="./assets/graphql-logo-2.svg" title="Graphql" alt="Graphql" width="30" height="30"/>&nbsp; -->
-    <img src="./assets/c-original.svg" title="C Programming" alt="C Programming" width="30" height="30"/>&nbsp;
-    <img src="./assets/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp; -->
     <img src="./assets/docker-original.svg" title="Docker" 
     alt="Docker" width="30" height="30"/>&nbsp;
 </p>

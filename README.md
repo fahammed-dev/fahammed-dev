@@ -40,9 +40,6 @@
     <img src="./assets/prisma-3.svg" title="Prisma" alt="Prisma" width="30" height="30"/>&nbsp;
     <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
-    <img src="./assets/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>
-    <img src="./assets/postgresql-plain.svg" title="PostGraesql" alt="PostGraesql" width="30" height="30"/>&nbsp;
-    <img src="./assets/prisma-3.svg" title="Prisma" alt="Prisma" width="30" height="30"/>&nbsp;
 </p>
 
 ### 🏗️ Projects :

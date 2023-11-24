@@ -24,7 +24,7 @@
         📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     </div>
     <div>
-        💼 Portfolio: <a href="https://faysalahammed.pages.dev" style="text-decoration: none; color: teal;">faysalahammed.pages.dev</a>
+        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     </div>
     <div>
         🌐 Blog: <a href="https://faysalahammed.hashnode.dev" style="text-decoration: none; color: teal;">faysalahammed.hashnode.dev</a>

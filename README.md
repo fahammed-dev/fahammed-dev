@@ -37,8 +37,15 @@
     <img src="./assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
     <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
     <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
+    <img src="./assets/material-ui-1.svg" title="MUI" alt="MUI" width="30" height="30"/>&nbsp;
     <img src="./assets/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
     <img src="./assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
+    <img src="./assets/mongoose.png" title="Mongoose" alt="Mongoose" width="30" height="30"/>&nbsp;
+    <img src="./assets/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
+    <img src="./assets/prisma-3.svg" title="Prisma" alt="Prisma" width="30" height="30"/>&nbsp;
+    <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
 
 ### 🏗️ Projects :

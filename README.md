@@ -24,6 +24,9 @@
         📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     </div>
     <div>
+        💼 Portfolio: <a href="https://faysalahammed.pages.dev" style="text-decoration: none; color: teal;">faysalahammed.pages.dev</a>
+    </div>
+    <div>
         🌐 Blog: <a href="https://faysalahammed.hashnode.dev" style="text-decoration: none; color: teal;">faysalahammed.hashnode.dev</a>
     </div>
 </div>
@@ -50,7 +53,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://faysal.pages.dev/" target="_blank">Developer Portfolio</a></td>
+      <td><a href="https://fahammed.pages.dev/" target="_blank">Developer Portfolio</a></td>
       <td>A simple portfolio website build with react, typescript, tailwindcss and framermotion library</td>
     <td>...</td>
     </tr>

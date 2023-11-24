@@ -27,7 +27,7 @@
         💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     </div>
     <div>
-        🌐 Blog: <a href="https://faysalahammed.hashnode.dev" style="text-decoration: none; color: teal;">faysalahammed.hashnode.dev</a>
+        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
     </div>
 </div>
 

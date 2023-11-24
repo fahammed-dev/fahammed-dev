@@ -10,15 +10,15 @@
 
 ### 🤹 Current activities:
 
-<div style="display: flex; flex-direction: column; margin-left: 40px;">
+<div style="display: flex; flex-direction: column; margin-left: 100px;">
     <div>
-        &nbsp;🙇🏼‍♂️I am currently focusing on learning <span><a href="https://nextjs.org/">Next.js</a></span>
+        🙇🏼‍♂️I am currently focusing on learning <span><a href="https://nextjs.org/">Next.js</a></span>
     </div>
     <div>
-        &nbsp;💻Doing some **Data Structure and Algorithm** stuff.
+        💻Doing some **Data Structure and Algorithm** stuff.
     </div>
     <div>
-        &nbsp;📙Reading <span><a href="https://www.goodreads.com/bn/book/show/21568524">মসলার যুদ্ধ</a></span> a Bengali historical book about conflicts between European powers over the spice trade in the Indian subcontinent and Indonesia, written by Satyen Sen.
+        📙Reading <span><a href="https://www.goodreads.com/bn/book/show/21568524">মসলার যুদ্ধ</a></span> a Bengali historical book about conflicts between European powers over the spice trade in the Indian subcontinent and Indonesia, written by Satyen Sen.
     </div>
 </div>
 
@@ -69,7 +69,6 @@
 ### 🤝 Connect with me:
 
 <div style="display: flex;">
-    &nbsp;
     <a href="https://www.linkedin.com/in/fahammed-dev">
         <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
@@ -78,14 +77,14 @@
     </a>
 </div>
 
-<div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">
+<div style="display: flex; flex-direction: column; margin-left: 100px;font-weight: bold;">
     <div>
-        &nbsp;📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
+        📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     </div>
     <div>
-        &nbsp;💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
+        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     </div>
     <div>
-        &nbsp;🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
+        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
     </div>
 </div>

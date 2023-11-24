@@ -10,7 +10,7 @@
 
 ### 🤹 Current activities:
 
-<div style="display: flex; flex-direction: column; margin-left: 100px;">
+<div style="display: flex; flex-direction: column; margin-left: 100px; !important;">
     <div>
         🙇🏼‍♂️I am currently focusing on learning <span><a href="https://nextjs.org/">Next.js</a></span>
     </div>
@@ -77,7 +77,7 @@
     </a>
 </div>
 
-<div style="display: flex; flex-direction: column; margin-left: 100px;font-weight: bold;">
+<div style="display: flex; flex-direction: column; margin-left: 100px; !important;font-weight: bold;">
     <div>
         📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     </div>

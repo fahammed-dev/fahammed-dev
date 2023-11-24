@@ -2,27 +2,36 @@
     Faysal Ahammed—@fahammed-dev
 </h1>
 
-### 🧔 About me:
+### 🧔 About me :
 
 <p align="justify" style="margin-left: 40px;">
     Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught, passionate Web Application Developer from Bangladesh<img src="assets/bangladesh.png" width="18"/>. JavaScript is my primary area of expertise, and I like to use it for the majority of my tasks. I have graduated with a bachelor's degree in Computer Science and Engineering from Daffodil International University at Dhaka, Bangladesh in 2022. I am open to any type of career opportunity that aligns with my interests.
 </p>
 
-### 🤹 Current activities:
+### 🤝 Connect with me:
 
-<div style="display: flex; flex-direction: column;">
-    <div style="margin-left: 40px;">
-        🙇🏼‍♂️I am currently focusing on learning <span><a href="https://nextjs.org/">Next.js</a></span>
+<div style="display: flex;">
+    <a href="https://www.linkedin.com/in/fahammed-dev">
+        <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+    </a>
+    <a href="https://twitter.com/fahammed_dev">
+        <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
+    </a>
+</div>
+
+<div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">
+    <div>
+        📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     </div>
-    <div style="margin-left: 40px;">
-        💻Doing some **Data Structure and Algorithm** stuff.
+    <div>
+        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     </div>
-    <div style="margin-left: 40px;">
-        📙Reading <span><a href="https://www.goodreads.com/bn/book/show/21568524">মসলার যুদ্ধ</a></span> a Bengali historical book about conflicts between European powers over the spice trade in the Indian subcontinent and Indonesia, written by Satyen Sen.
+    <div>
+        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
     </div>
 </div>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools :
 
 <p style="margin-left: 40px;">
     <img src="./assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
@@ -42,7 +51,7 @@
     <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
 
-### 🏗️ Projects:
+### 🏗️ Projects :
 
 <table style="margin-left: 40px;">
   <thead align="center">
@@ -65,26 +74,3 @@
     </tr>
   </tbody>
 </table>
-
-### 🤝 Connect with me:
-
-<div style="display: flex;">
-    <a href="https://www.linkedin.com/in/fahammed-dev">
-        <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
-    </a>
-    <a href="https://twitter.com/fahammed_dev">
-        <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
-    </a>
-</div>
-
-<div style="display: flex; flex-direction: column;font-weight: bold;">
-    <div>
-        📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
-    </div>
-    <div>
-        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
-    </div>
-    <div>
-        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
-    </div>
-</div>

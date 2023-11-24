@@ -12,13 +12,13 @@
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;">
     <div>
-        🙇🏼‍♂️I am currently focusing on learning Next.js.
+        &nbsp;🙇🏼‍♂️I am currently focusing on learning <span><a href="https://nextjs.org/">Next.js</a></span>
     </div>
     <div>
-        💻 Doing some data structure and algorithm stuff.
+        &nbsp;💻Doing some **Data Structure and Algorithm** stuff.
     </div>
     <div>
-        📙 Reading <span><a href="https://www.goodreads.com/bn/book/show/21568524">মসলার যুদ্ধ</a></span> a Bengali historical book about conflicts between European powers over the spice trade in the Indian subcontinent and Indonesia, written by Satyen Sen.
+        &nbsp;📙Reading <span><a href="https://www.goodreads.com/bn/book/show/21568524">মসলার যুদ্ধ</a></span> a Bengali historical book about conflicts between European powers over the spice trade in the Indian subcontinent and Indonesia, written by Satyen Sen.
     </div>
 </div>
 
@@ -69,6 +69,7 @@
 ### 🤝 Connect with me:
 
 <div style="display: flex;">
+    &nbsp;
     <a href="https://www.linkedin.com/in/fahammed-dev">
         <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
@@ -79,12 +80,12 @@
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">
     <div>
-        📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
+        &nbsp;📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     </div>
     <div>
-        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
+        &nbsp;💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     </div>
     <div>
-        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
+        &nbsp;🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
     </div>
 </div>

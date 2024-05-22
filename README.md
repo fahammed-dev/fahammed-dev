@@ -9,16 +9,18 @@
 </p>
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/fahammed-dev">
-    <img src="./assets/linkedIn.svg" width="125" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
-</a>
-<a href="https://twitter.com/fahammed_dev">
-    <img src="./assets/twitter.svg" width="125" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
-</a>
+<div style="display:flex;align-items:center;>
+    <a href="https://www.linkedin.com/in/fahammed-dev">
+        <img src="./assets/linkedIn.svg" width="125" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+    </a>
+    <a href="https://twitter.com/fahammed_dev">
+        <img src="./assets/twitter.svg" width="125" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
+    </a>
+</div>
 
-<div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">
+<div style="display:flex;flex-direction:column;margin-left:40px;font-weight:bold;">
     <div>
-        📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
+        📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
     </div>
     <div>
         💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>

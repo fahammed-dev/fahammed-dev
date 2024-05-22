@@ -75,7 +75,7 @@
   <tbody>
     <tr>
       <td>
-          <a href="https://github.com/fahammed-dev/ts-node-ecommerce-server" target="_blank">Ecommerce API</a>
+          <a href="https://github.com/fahammed-dev/ts-node-ecommerce-server">Ecommerce API</a>
       </td>
       <td>
           <ul>
@@ -92,6 +92,32 @@
             <li>Node</li>
             <li>Express</li>
             <li>MongoDB & Mongoose ODM</li>
+        </ul>
+      </td>
+    <td>
+          <ul>
+            <li>Real-time data exchange using socket.io</li>
+            <li>Caching mechanism using Redis</li>
+        </ul>
+      </td>
+    </tr>
+
+      <tr>
+      <td>
+          <a href="https://fahammed.pages.dev">Developer Portfolio</a>
+      </td>
+      <td>
+          <ul>
+            <li>Developing react project using TypeScript</li>
+            <li>Responsive UI design with animation</li>
+        </ul>
+      </td>
+        <td>
+          <ul>
+            <li>TypeScript</li>
+            <li>React</li>
+            <li>Tailwind CSS</li>
+            <li>Framermotion</li>
         </ul>
       </td>
     <td>

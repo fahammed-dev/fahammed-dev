@@ -63,7 +63,7 @@
 
 ### 🏗️ Projects :
 
-<table style="margin-left: 40px;">
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>

@@ -9,23 +9,16 @@
 </p>
 
 ### 🤝 Connect with me:
-
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/fahammed-dev">
-        <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
-    </a>
-    <a href="https://twitter.com/fahammed_dev">
-        <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
-    </a>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <a href="https://www.linkedin.com/in/fahammed-dev">
+<a href="https://www.linkedin.com/in/fahammed-dev">
         <img src="./assets/linkedIn.svg" width="80" height="15" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/fahammed_dev">
         <img src="./assets/twitter.svg" width="80" height="15" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
+
+<div style="display: flex; align-items: center;">
+    LinkedIn: <a href="https://www.linkedin.com/in/fahammed-dev">linkedin.com/in/fahammed-dev</a>
+    Twitter: <a href="https://twitter.com/fahammed_dev">twitter.com/fahammed_dev</a>
     📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>

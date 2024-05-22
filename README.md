@@ -116,7 +116,7 @@
     </a>
 </p>
 <p align="center">
-    📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
+    📧 Contact: <a href="#">fahammed.dev@gmail.com</a>
 </p>
 <p align="center">
     💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>

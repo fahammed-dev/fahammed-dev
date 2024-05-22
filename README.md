@@ -34,9 +34,9 @@
 
 ### 📑 Certifications :
 
-<table style="margin-left: 40px;">
+<table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>Subject</b></td>
       <td><b>Certificate</b></td>
     </tr>
@@ -65,7 +65,7 @@
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr>
       <td><b>Projects</b></td>
       <td><b>What I Learned</b></td>
       <td><b>Built With</b></td>

@@ -121,8 +121,8 @@
       </td>
     <td>
           <ul>
-            <li>Real-time data exchange using socket.io</li>
-            <li>Caching mechanism using Redis</li>
+            <li>UI improvements</li>
+            <li>Upgrade to Next.js</li>
         </ul>
       </td>
     </tr>

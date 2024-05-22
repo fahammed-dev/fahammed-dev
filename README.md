@@ -101,8 +101,7 @@
         </ul>
       </td>
     </tr>
-
-      <tr>
+    <tr>
       <td>
           <a href="https://fahammed.pages.dev">Developer Portfolio</a>
       </td>

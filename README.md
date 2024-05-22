@@ -105,10 +105,10 @@
 </table>
 
 <p align="center">
-<b>🤝 Connect with me 🤝<b>
+    <del>🤝 Connect with me 🤝<del>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/fahammed-dev">
+    <a href="https://www.linkedin.com/in/fahammed-dev">
         <img src="./assets/linkedIn.svg" width="125" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/fahammed_dev">
@@ -116,9 +116,9 @@
     </a>
 </p>
 <p align="center">
-📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
+    📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
 </p>
 <p align="center">
-💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
-🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
+    💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
+    🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
 </p>

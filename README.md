@@ -119,6 +119,6 @@
     📧 Contact: <a href="#">fahammed.dev@gmail.com</a>
 </p>
 <p align="center">
-    💼 Portfolio: <a href="https://fahammed.pages.dev" target="_blank">fahammed.pages.dev</a>
-    🌐 Blog: <a href="https://fahammed.hashnode.dev" target="_blank">fahammed.hashnode.dev</a>
+    💼 Portfolio: <a href="https://fahammed.pages.dev">fahammed.pages.dev</a>
+    🌐 Blog: <a href="https://fahammed.hashnode.dev">fahammed.hashnode.dev</a>
 </p>

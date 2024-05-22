@@ -40,14 +40,47 @@
     <img src="./assets/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
     <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
+    <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;
+    <img src="./assets/socket-io.svg" title="Socket.io" alt="Socket.io" width="30" height="30"/>&nbsp;
     <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
     <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
     <img src="./assets/material-ui-1.svg" title="MUI" alt="MUI" width="30" height="30"/>&nbsp;
     <img src="./assets/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="30" height="30"/>&nbsp;
     <img src="./assets/storybook-icon.svg" title="Storybook" alt="Storybook" width="30" height="30"/>&nbsp;
+    <img src="./assets/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
+    <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
     <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
+
+### 📑 Certifications :
+
+<table style="margin-left: 40px;">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Subject</b></td>
+      <td><b>Certificate</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          Algorithm and DataStructure
+      </td>
+      <td>
+          <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and DataStructures by freeCodeCamp</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          Backend Development
+      </td>
+      <td>
+          <a href="https://courses.edx.org/certificates/9a8cd6b988654058becd10d37d687b7a" target="_blank">Back-end Application Development with Node.js and Express by edX</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🏗️ Projects :
 

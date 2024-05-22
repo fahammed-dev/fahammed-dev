@@ -69,7 +69,7 @@
       <td><b>Projects</b></td>
       <td><b>What I Learned</b></td>
       <td><b>Built With</b></td>
-      <td><b>Developing</b></td>
+      <td><b>Future Updates</b></td>
     </tr>
   </thead>
   <tbody>

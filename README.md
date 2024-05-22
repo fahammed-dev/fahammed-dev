@@ -17,15 +17,6 @@
     <a href="https://twitter.com/fahammed_dev">
         <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
-    <b style="
-    border: 2px solid #000;
-    background-color: transparent;
-    color: #000;
-    padding: 10px 20px;
-    border-radius: 50px;
-    font-size: 16px;
-    cursor: pointer; 
-    outline: none;">This is email address</b>
 </div>
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">

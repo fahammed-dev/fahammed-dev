@@ -105,7 +105,7 @@
 </table>
 
 <p align="center">
-    <del>🤝 Connect with me 🤝<del>
+    <ins>🤝 Connect with me 🤝</ins>
 </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/fahammed-dev">

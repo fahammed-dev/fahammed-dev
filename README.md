@@ -10,7 +10,7 @@
 
 ### 🤝 Connect with me:
 
-<div style="display: flex; align-items: center;  justify-content: center;">
+<div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/fahammed-dev">
         <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>

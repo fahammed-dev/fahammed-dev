@@ -18,14 +18,14 @@
         <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
     <b style="
-    border: 2px solid #000; /* Black border */
-    background-color: transparent; /* No background color */
-    color: #000; /* Text color */
-    padding: 10px 20px; /* Padding for size */
-    border-radius: 50px; /* Rounded corners */
-    font-size: 16px; /* Font size */
-    cursor: pointer; /* Pointer cursor on hover */
-    outline: none; /* Remove outline */>This is email address</b>
+    border: 2px solid #000;
+    background-color: transparent;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    cursor: pointer; 
+    outline: none;">This is email address</b>
 </div>
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">

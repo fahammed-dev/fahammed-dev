@@ -25,7 +25,7 @@
     border-radius: 50px; /* Rounded corners */
     font-size: 16px; /* Font size */
     cursor: pointer; /* Pointer cursor on hover */
-    outline: none; /* Remove outline */>email</b>
+    outline: none; /* Remove outline */>This is email address</b>
 </div>
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">

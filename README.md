@@ -19,7 +19,7 @@
 </div>
 
 <div style="display:flex;flex-direction:column;margin-left:40px;font-weight:bold;">
-    <div>
+    <div style="border: 2px solid #000;">
         📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
     </div>
     <div>

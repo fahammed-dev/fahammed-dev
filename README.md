@@ -12,19 +12,19 @@
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/fahammed-dev">
-        <img src="./assets/linkedIn.svg" width="119" height="15" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+        <img src="./assets/linkedIn.svg" width="119" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/fahammed_dev">
-        <img src="./assets/twitter.svg" width="119" height="15" alt="Twitter" style="flex: 1; margin-left: 10px;">
+        <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
 </div>
 
 <div style="display: flex; align-items: center;">
     <a href="https://www.linkedin.com/in/fahammed-dev">
-        <img src="./assets/linkedIn.svg" width="80" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+        <img src="./assets/linkedIn.svg" width="80" height="15" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/fahammed_dev">
-        <img src="./assets/twitter.svg" width="80" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
+        <img src="./assets/twitter.svg" width="80" height="15" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
     📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>

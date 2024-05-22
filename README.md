@@ -22,9 +22,11 @@
     <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
     <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
+    <img src="./assets/sass-1.svg" title="SASS" alt="SASS" width="30" height="30"/>&nbsp;
     <img src="./assets/material-ui-1.svg" title="MUI" alt="MUI" width="30" height="30"/>&nbsp;
     <img src="./assets/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="30" height="30"/>&nbsp;
     <img src="./assets/storybook-icon.svg" title="Storybook" alt="Storybook" width="30" height="30"/>&nbsp;
+    <img src="./assets/jest.svg" title="Jest" alt="Jest" width="30" height="30"/>&nbsp;
     <img src="./assets/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
     <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
@@ -102,24 +104,21 @@
   </tbody>
 </table>
 
-### 🤝 Connect with me:
-<div style="display:flex;align-items:center;>
-    <a href="https://www.linkedin.com/in/fahammed-dev">
+<p align="center">
+<b>🤝 Connect with me 🤝<b>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/fahammed-dev">
         <img src="./assets/linkedIn.svg" width="125" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
     </a>
     <a href="https://twitter.com/fahammed_dev">
         <img src="./assets/twitter.svg" width="125" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
-</div>
-
-<div style="display:flex;flex-direction:column;margin-left:40px;font-weight:bold;">
-    <div>
-        📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
-    </div>
-    <div>
-        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
-    </div>
-    <div>
-        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
-    </div>
-</div>
+</p>
+<p align="center">
+📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
+</p>
+<p align="center">
+💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
+🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
+</p>

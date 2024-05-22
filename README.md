@@ -20,6 +20,9 @@
 </div>
 
 <div style="display: flex;">
+    <a href="https://www.linkedin.com/in/fahammed-dev">
+        <img src="./assets/linkedIn.svg" width="30" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+    </a>
     📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>

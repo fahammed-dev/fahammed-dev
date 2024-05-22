@@ -17,15 +17,12 @@
     <a href="https://twitter.com/fahammed_dev">
         <img src="./assets/twitter.svg" width="119" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
     </a>
-    <div>
-        📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
-    </div>
-    <div>
-        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
-    </div>
-    <div>
-        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
-    </div>
+</div>
+
+<div style="display: flex;">
+    📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
+    💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
+    🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
 </div>
 
 <div style="display: flex; flex-direction: column; margin-left: 40px;font-weight: bold;">

@@ -8,28 +8,6 @@
     Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught, passionate <b>Back-End</b> focus <b>Full-Stack Developer</b> from Bangladesh<img src="assets/bangladesh.png" width="18"/>. <b>JavaScript</b> is my primary area of expertise. I can develop scalable <b>REST API</b>s using <b>TypeScript</b>, <b>Node.js</b> and <b>Express.js</b> with adept interfacing across various <b>SQL</b> and <b>NoSQL</b> database. Additionaly, I also can design dynamic and responsive user interface using <b>React.js</b>. I have graduated with a bachelor's degree in <b>Computer Science and Engineering</b> from Daffodil International University at Dhaka, Bangladesh in 2022. I am open to any type of career opportunity that aligns with my interests.
 </p>
 
-### 🤝 Connect with me:
-<div style="display:flex;align-items:center;>
-    <a href="https://www.linkedin.com/in/fahammed-dev">
-        <img src="./assets/linkedIn.svg" width="125" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
-    </a>
-    <a href="https://twitter.com/fahammed_dev">
-        <img src="./assets/twitter.svg" width="125" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
-    </a>
-</div>
-
-<div style="display:flex;flex-direction:column;margin-left:40px;font-weight:bold;">
-    <div style="border: 2px solid #000;">
-        📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
-    </div>
-    <div>
-        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
-    </div>
-    <div>
-        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
-    </div>
-</div>
-
 ### 🛠️ Languages and Tools :
 
 <p style="margin-left: 40px;">
@@ -123,3 +101,25 @@
     </tr>
   </tbody>
 </table>
+
+### 🤝 Connect with me:
+<div style="display:flex;align-items:center;>
+    <a href="https://www.linkedin.com/in/fahammed-dev">
+        <img src="./assets/linkedIn.svg" width="125" height="25" alt="LinkedIn" style="flex: 1;margin-left: 40px;">
+    </a>
+    <a href="https://twitter.com/fahammed_dev">
+        <img src="./assets/twitter.svg" width="125" height="25" alt="Twitter" style="flex: 1; margin-left: 10px;">
+    </a>
+</div>
+
+<div style="display:flex;flex-direction:column;margin-left:40px;font-weight:bold;">
+    <div>
+        📧 Contact: <span style="color:purple">fahammed.dev@gmail.com</span>
+    </div>
+    <div>
+        💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
+    </div>
+    <div>
+        🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>
+    </div>
+</div>

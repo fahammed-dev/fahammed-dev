@@ -55,20 +55,39 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Source Code</b></td>
+      <td><b>What I Learned</b></td>
+      <td><b>Built With</b></td>
+      <td><b>Developing</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://fahammed.pages.dev/" target="_blank">Developer Portfolio</a></td>
-      <td>A simple portfolio website build with react, typescript, tailwindcss and framermotion library</td>
-    <td>...</td>
-    </tr>
-    <tr>
-      <td><a href="#" target="_blank">...</a></td>
-      <td>...</td>
-    <td>...</td>
+      <td>
+          <a href="https://github.com/fahammed-dev/ts-node-ecommerce-server" target="_blank">Ecommerce API</a>
+      </td>
+      <td>
+          <ul>
+            <li>Implement TypeScript on Express (Node.js framework) projects</li>
+            <li>REST API desing and development with advanced features: filtering, sorting, pagination etc.</li>
+            <li>Fundamentals of Mongoose (MongoDB JS driver): Data models, CRUD operations, data validation, and middleware.</li>
+            <li>Security: encryption, sanitization, rate limiting, etc.</li>
+            <li>Authentication and authorization with JWT: user sign up, log in, password reset, secure cookies, etc.</li>
+        </ul>
+      </td>
+        <td>
+          <ul>
+            <li>TypeScript</li>
+            <li>Node</li>
+            <li>Express</li>
+            <li>MongoDB & Mongoose ODM</li>
+        </ul>
+      </td>
+    <td>
+          <ul>
+            <li>Real-time data exchange using socket.io</li>
+            <li>Caching mechanism using Redis</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>

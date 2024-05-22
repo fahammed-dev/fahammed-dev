@@ -19,7 +19,7 @@
     </a>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; border: 2px solid #000;">
     📧 Contact: <span style="color: purple">fahammed.dev@gmail.com</span>
     💼 Portfolio: <a href="https://fahammed.pages.dev" style="text-decoration: none; color: teal;">fahammed.pages.dev</a>
     🌐 Blog: <a href="https://fahammed.hashnode.dev" style="text-decoration: none; color: teal;">fahammed.hashnode.dev</a>

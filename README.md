@@ -32,6 +32,35 @@
     <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
 
+### 📑 Certifications :
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Subject</b></td>
+      <td><b>Certificate</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          Algorithm and DataStructure
+      </td>
+      <td>
+          <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and DataStructures by freeCodeCamp</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          Backend Development
+      </td>
+      <td>
+          <a href="https://courses.edx.org/certificates/9a8cd6b988654058becd10d37d687b7a" target="_blank">Back-end Application Development with Node.js and Express by edX</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### 🏗️ Projects :
 
 <table>
@@ -116,35 +145,6 @@
       <td>Useful GitHub Gists for JavaScript</td>
       <td>
           <a href="https://gist.github.com/username/gistid" target="_blank">View Gist</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### 📑 Certifications :
-
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Subject</b></td>
-      <td><b>Certificate</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-          Algorithm and DataStructure
-      </td>
-      <td>
-          <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and DataStructures by freeCodeCamp</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-          Backend Development
-      </td>
-      <td>
-          <a href="https://courses.edx.org/certificates/9a8cd6b988654058becd10d37d687b7a" target="_blank">Back-end Application Development with Node.js and Express by edX</a>
       </td>
     </tr>
   </tbody>

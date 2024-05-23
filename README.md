@@ -88,18 +88,20 @@
   </tbody>
 </table>
 
-### 📰 Blog Posts & Code Snippets :
+### 📰 Blog Posts & Notes :
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>Title</b></td>
-      <td><b>Link</b></td>
+      <td><b>Recent Posts</b></td>
+      <td><b>Recent Notes</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Understanding JavaScript Closures</td>
+      <td>
+          <a href="https://fahammed.hashnode.dev/react">[Read Blog](https://fahammed.hashnode.dev/react)</a>
+      </td>
       <td>
           <a href="https://myblog.com/javascript-closures" target="_blank">Read Blog</a>
       </td>

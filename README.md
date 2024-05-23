@@ -101,6 +101,7 @@
     <tr>
       <td>
           <a href="https://fahammed.hashnode.dev/react">[Read Blog](https://fahammed.hashnode.dev/react)</a>
+          [Read Blog](https://fahammed.hashnode.dev/react)
       </td>
       <td>
           <a href="https://myblog.com/javascript-closures" target="_blank">Read Blog</a>

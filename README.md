@@ -88,6 +88,37 @@
   </tbody>
 </table>
 
+### 📰 Blog Posts & Code Snippets :
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Title</b></td>
+      <td><b>Link</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Understanding JavaScript Closures</td>
+      <td>
+          <a href="https://myblog.com/javascript-closures" target="_blank">Read Blog</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Node.js Async/Await Explained</td>
+      <td>
+          <a href="https://myblog.com/nodejs-async-await" target="_blank">Read Blog</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Useful GitHub Gists for JavaScript</td>
+      <td>
+          <a href="https://gist.github.com/username/gistid" target="_blank">View Gist</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### 📑 Certifications :
 
 <table>

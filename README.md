@@ -84,6 +84,7 @@
             <li>Fundamentals of Mongoose (MongoDB JS driver): Data models, CRUD operations, data validation, and middleware.</li>
             <li>Security: encryption, sanitization, rate limiting, etc.</li>
             <li>Authentication and authorization with JWT: user sign up, log in, password reset, secure cookies, etc.</li>
+            <li>Implement payment system</li>
         </ul>
       </td>
         <td>

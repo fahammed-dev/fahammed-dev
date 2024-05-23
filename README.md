@@ -129,10 +129,10 @@
   <tbody>
     <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/react">রিয়েক্ট লাইব্রেরির রেন্ডারিং কৌশল</a>
+          <a href="https://fahammed.hashnode.dev/react">রিয়েক্ট লাইব্রেরির রেন্ডারিং কৌশল</a> - May 27, 2023
       </td>
       <td>
-          <script src="https://gist.github.com/fahammed-dev/14d2a23e33890b7683393ae623716e2f.js"></script>
+          রিয়েক্ট লাইব্রেরি আমাদের রিয়েক্ট অ্যাপ্লিকেশনের রেন্ডারিং প্রক্রিয়া যেভাবে পরিচালনা করে তার উপর বিস্তারিত আলোচনা
       </td>
     </tr>
     <tr>

@@ -103,7 +103,7 @@
           <a href="https://fahammed.hashnode.dev/react">রিয়েক্ট লাইব্রেরির রেন্ডারিং কৌশল</a>
       </td>
       <td>
-          <a href="https://myblog.com/javascript-closures" target="_blank">Read Blog</a>
+          <script src="https://gist.github.com/fahammed-dev/14d2a23e33890b7683393ae623716e2f.js"></script>
       </td>
     </tr>
     <tr>

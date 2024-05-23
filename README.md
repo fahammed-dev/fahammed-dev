@@ -39,6 +39,7 @@
     <tr>
       <td><b>Subject</b></td>
       <td><b>Certificate</b></td>
+      <td><b>Key Learnings</b></td>
     </tr>
   </thead>
   <tbody>
@@ -49,6 +50,12 @@
       <td>
           <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures">JavaScript Algorithms and DataStructures</a> - freeCodeCamp
       </td>
+      <td>
+            <ul>
+                <li>JavaScript</li>
+                <li>Basic DataStructures and Algorithms</li>
+            </ul>
+      </td>
     </tr>
     <tr>
       <td>
@@ -56,6 +63,12 @@
       </td>
       <td>
           <a href="https://courses.edx.org/certificates/9a8cd6b988654058becd10d37d687b7a">Back-end Application Development with Node.js and Express</a> - edX
+      </td>
+        <td>
+            <ul>
+                <li>Node and Express</li>
+                <li>API Development</li>
+            </ul>
       </td>
     </tr>
   </tbody>

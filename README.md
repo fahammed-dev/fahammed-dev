@@ -122,8 +122,8 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>Recent Posts</b></td>
-      <td><b>Recent Notes</b></td>
+      <td><b>Subject</b></td>
+      <td><b>Description</b></td>
     </tr>
   </thead>
   <tbody>

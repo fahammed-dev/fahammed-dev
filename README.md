@@ -82,7 +82,7 @@
             <ul>
                 <li>Enhances JavaScript and React proficiency</li>
                 <li>Better project structure</li>
-                <li>Importance of state management and how to manage it in bigger projects</li>
+                <li>Importance of state management and how to manage it using Redux in bigger projects</li>
             </ul>
       </td>
     </tr>

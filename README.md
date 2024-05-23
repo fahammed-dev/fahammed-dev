@@ -47,7 +47,7 @@
           Algorithm and DataStructure
       </td>
       <td>
-          <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures" target="_blank">JavaScript Algorithms and DataStructures by freeCodeCamp</a>
+          <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures">JavaScript Algorithms and DataStructures</a> - freeCodeCamp
       </td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
           Backend Development
       </td>
       <td>
-          <a href="https://courses.edx.org/certificates/9a8cd6b988654058becd10d37d687b7a" target="_blank">Back-end Application Development with Node.js and Express by edX</a>
+          <a href="https://courses.edx.org/certificates/9a8cd6b988654058becd10d37d687b7a">Back-end Application Development with Node.js and Express</a> - edX
       </td>
     </tr>
   </tbody>

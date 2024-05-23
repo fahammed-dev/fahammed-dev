@@ -100,8 +100,7 @@
   <tbody>
     <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/react">[Read Blog](https://fahammed.hashnode.dev/react)</a>
-          [Read Blog](https://fahammed.hashnode.dev/react)
+          <a href="https://fahammed.hashnode.dev/react">রিয়েক্ট লাইব্রেরির রেন্ডারিং কৌশল</a>
       </td>
       <td>
           <a href="https://myblog.com/javascript-closures" target="_blank">Read Blog</a>

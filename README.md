@@ -32,6 +32,62 @@
     <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
 
+### 🏗️ Projects :
+
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>What I Learned</b></td>
+      <td><b>Built With</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          <a href="https://github.com/fahammed-dev/ts-node-ecommerce-server">Ecommerce API</a>
+      </td>
+      <td>
+          <ul>
+            <li>Implement TypeScript on Express (Node.js framework) projects</li>
+            <li>REST API desing and development with advanced features: filtering, sorting, pagination etc.</li>
+            <li>Fundamentals of Mongoose (MongoDB JS driver): Data models, CRUD operations, data validation, and middleware.</li>
+            <li>Security: encryption, sanitization, rate limiting, etc.</li>
+            <li>Authentication and authorization with JWT: user sign up, log in, password reset, secure cookies, etc.</li>
+            <li>Implement payment system</li>
+        </ul>
+      </td>
+        <td>
+          <ul>
+            <li>TypeScript</li>
+            <li>Node</li>
+            <li>Express</li>
+            <li>MongoDB & Mongoose ODM</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          <a href="https://fahammed.pages.dev">Developer Portfolio</a>
+      </td>
+      <td>
+          <ul>
+            <li>Developing react project using TypeScript</li>
+            <li>Responsive UI design with animation</li>
+        </ul>
+      </td>
+        <td>
+          <ul>
+            <li>TypeScript</li>
+            <li>React</li>
+            <li>Tailwind CSS</li>
+            <li>Framermotion</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ### 📑 Certifications :
 
 <table>
@@ -84,62 +140,6 @@
                 <li>Better project structure</li>
                 <li>Importance of state management and how to manage it using Redux in bigger projects</li>
             </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### 🏗️ Projects :
-
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>Projects</b></td>
-      <td><b>What I Learned</b></td>
-      <td><b>Built With</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-          <a href="https://github.com/fahammed-dev/ts-node-ecommerce-server">Ecommerce API</a>
-      </td>
-      <td>
-          <ul>
-            <li>Implement TypeScript on Express (Node.js framework) projects</li>
-            <li>REST API desing and development with advanced features: filtering, sorting, pagination etc.</li>
-            <li>Fundamentals of Mongoose (MongoDB JS driver): Data models, CRUD operations, data validation, and middleware.</li>
-            <li>Security: encryption, sanitization, rate limiting, etc.</li>
-            <li>Authentication and authorization with JWT: user sign up, log in, password reset, secure cookies, etc.</li>
-            <li>Implement payment system</li>
-        </ul>
-      </td>
-        <td>
-          <ul>
-            <li>TypeScript</li>
-            <li>Node</li>
-            <li>Express</li>
-            <li>MongoDB & Mongoose ODM</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-          <a href="https://fahammed.pages.dev">Developer Portfolio</a>
-      </td>
-      <td>
-          <ul>
-            <li>Developing react project using TypeScript</li>
-            <li>Responsive UI design with animation</li>
-        </ul>
-      </td>
-        <td>
-          <ul>
-            <li>TypeScript</li>
-            <li>React</li>
-            <li>Tailwind CSS</li>
-            <li>Framermotion</li>
-        </ul>
       </td>
     </tr>
   </tbody>

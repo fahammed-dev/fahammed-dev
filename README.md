@@ -71,6 +71,21 @@
             </ul>
       </td>
     </tr>
+      <tr>
+      <td>
+          React State Management
+      </td>
+      <td>
+          <a href="#">Think in a Redux way</a> - Learn with Sumit
+      </td>
+        <td>
+            <ul>
+                <li>Enhances JavaScript and React proficiency</li>
+                <li>Better project structure</li>
+                <li>Importance of state management and how to manage it in bigger projects</li>
+            </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
 

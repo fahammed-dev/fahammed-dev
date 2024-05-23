@@ -132,19 +132,23 @@
           <a href="https://fahammed.hashnode.dev/react">রিয়েক্ট লাইব্রেরির রেন্ডারিং কৌশল</a> - May 27, 2023
       </td>
       <td>
-          রিয়েক্ট লাইব্রেরি আমাদের রিয়েক্ট অ্যাপ্লিকেশনের রেন্ডারিং প্রক্রিয়া যেভাবে সম্পাদন করে তার উপর বিস্তারিত আলোচনা
+          রিয়েক্ট লাইব্রেরি আমাদের রিয়েক্ট অ্যাপ্লিকেশনের রেন্ডারিং প্রক্রিয়া যেভাবে সম্পাদন করে...
       </td>
     </tr>
     <tr>
-      <td>Node.js Async/Await Explained</td>
       <td>
-          <a href="https://myblog.com/nodejs-async-await" target="_blank">Read Blog</a>
+          <a href="https://fahammed.hashnode.dev/linux-under-the-hood-a-high-level-architectural-view">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024    
+      </td>
+      <td>
+          একটি আদর্শ লিনাক্স ডিস্টিবিউশনের হাইলেভেল আর্কিটেকচার সম্পর্কে বিস্তারিত আলোচনা
       </td>
     </tr>
     <tr>
-      <td>Useful GitHub Gists for JavaScript</td>
       <td>
-          <a href="https://gist.github.com/username/gistid" target="_blank">View Gist</a>
+          <a href="https://fahammed.hashnode.dev/linux-file-system-navigating-the-file-system-with-confidence-1">Linux File System: Navigating the File System with Confidence</a> - Feb 24, 2024
+      </td>
+      <td>
+          লিনাক্স ফাইল স্ট্রাকচার কেমন, কিভাবে থাকে এবং প্রয়োজনীয় কমান্ড যা আপনার জানা দরকার
       </td>
     </tr>
   </tbody>

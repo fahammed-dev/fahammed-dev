@@ -69,7 +69,6 @@
       <td><b>Projects</b></td>
       <td><b>What I Learned</b></td>
       <td><b>Built With</b></td>
-      <td><b>Future Updates</b></td>
     </tr>
   </thead>
   <tbody>
@@ -95,12 +94,6 @@
             <li>MongoDB & Mongoose ODM</li>
         </ul>
       </td>
-    <td>
-          <ul>
-            <li>Real-time data exchange using socket.io</li>
-            <li>Caching mechanism using Redis</li>
-        </ul>
-      </td>
     </tr>
     <tr>
       <td>
@@ -118,12 +111,6 @@
             <li>React</li>
             <li>Tailwind CSS</li>
             <li>Framermotion</li>
-        </ul>
-      </td>
-    <td>
-          <ul>
-            <li>UI improvements</li>
-            <li>Upgrade to Next.js</li>
         </ul>
       </td>
     </tr>

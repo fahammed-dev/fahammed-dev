@@ -88,7 +88,7 @@
   </tbody>
 </table>
 
-### 📑 Certifications :
+### 📑 Courses & Certifications :
 
 <table>
   <thead align="center">

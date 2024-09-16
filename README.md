@@ -5,7 +5,7 @@
 ### 🧔 About me :
 
 <p align="justify" style="margin-left: 40px;">
-    Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught, passionate <b>Back-End</b> focus <b>Full-Stack Developer</b> from Bangladesh <img src="assets/bangladesh.png" width="18"/>. <b>JavaScript</b> is my primary area of expertise. I can develop scalable <b>REST API</b>s using <b>TypeScript</b>, <b>Node.js</b> and <b>Express.js</b> with adept interfacing across various <b>SQL</b> and <b>NoSQL</b> database. Additionaly, I also can design dynamic and responsive user interface using <b>React.js</b>. I have graduated with a bachelor's degree in <b>Computer Science and Engineering</b> from Daffodil International University at Dhaka, Bangladesh in 2022. I am open to any type of career opportunity that aligns with my interests.
+    Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught, passionate <b>Back-End</b> focused <b>Full-Stack Developer</b> from Bangladesh <img src="assets/bangladesh.png" width="18"/>. <b>JavaScript</b> is my primary area of expertise. I can develop scalable <b>REST API</b>s using <b>TypeScript</b>, <b>Node.js</b> and <b>Express.js</b> with adept interfacing across various <b>SQL</b> and <b>NoSQL</b> database. Additionaly, I can design dynamic and responsive <b>UI</b> using <b>React.js</b>. I have graduated with a bachelor's degree in <b>Computer Science and Engineering</b> from Daffodil International University at Dhaka, Bangladesh in 2022. I am open to any type of career opportunity that aligns with my interests.
 </p>
 
 ### 🛠️ Languages and Tools :

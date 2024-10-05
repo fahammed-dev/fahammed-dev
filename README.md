@@ -202,7 +202,7 @@
     </a>
 </p>
 <p align="center">
-    📧 Contact: <a href="#">fahammed.dev@gmail.com</a>
+    📧 Contact: <a href="#">faysal.csediu@gmail.com</a>
 </p>
 <p align="center">
     💼 Portfolio: <a href="https://fahammed.pages.dev">fahammed.pages.dev</a>

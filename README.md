@@ -205,6 +205,6 @@
     📧 Contact: <a href="#">faysal.csediu@gmail.com</a>
 </p>
 <p align="center">
-    💼 Portfolio: <a href="https://fahammed.pages.dev">fahammed.pages.dev</a>
+    💼 Portfolio: <a href="https://github.com/fahammed-dev">fahammed-dev</a>
     🌐 Blog: <a href="https://fahammed.hashnode.dev">fahammed.hashnode.dev</a>
 </p>

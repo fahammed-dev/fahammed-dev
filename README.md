@@ -4,7 +4,7 @@
 
 ### 🧔 About me :
 
-<p align="justify" style="margin-left: 40px;">
+<p align="left" style="margin-left: 40px;">
 Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about building <b>scalable</b>, <b>high-performance</b> systems. I specialize in <b>Node.js</b> (including <b>NestJS</b>) and <b>Go</b>, crafting clean, maintainable <b>RESTful APIs</b> and <b>microservices</b> architectures.
 <br>
 While my primary focus is <b>backend development</b>, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full Stack Developer</b> when needed.

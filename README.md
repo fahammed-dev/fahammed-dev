@@ -5,7 +5,7 @@
 ### 🧔 About me :
 
 <p align="justify" style="margin-left: 40px;">
-Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught and passionate <b>Backend Engineer</b> from Bangladesh with a strong foundation in <b>JavaScript/TypeScript</b> and a focus on building robust, scalable server-side applications. My expertise lies in developing <b>RESTful APIs</b> using <b>Node.js</b>, and <b>NestJS</b>, along with seamless integration across both <b>SQL</b> and <b>NoSQL</b> databases.
+Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught and passionate <b>Backend Engineer</b> from Bangladesh with a strong foundation in <b>JavaScript/TypeScript</b> and a focus on building robust, scalable server-side applications. My expertise lies in developing <b>RESTful APIs</b>, and <b>Microservices</b> using <b>Node.js</b>, and <b>NestJS</b>, along with seamless integration across both <b>SQL</b> and <b>NoSQL</b> databases.
 
 While my primary focus is backend development, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full-Stack</b> Developer when needed.
 

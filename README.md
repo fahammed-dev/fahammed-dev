@@ -5,20 +5,20 @@
 ### 🧔 About me :
 
 <p align="justify" style="margin-left: 40px;">
-Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught and passionate <b>Backend Engineer</b> from Bangladesh with a strong foundation in <b>JavaScript/TypeScript</b> and a focus on building robust, scalable server-side applications. My expertise lies in developing <b>RESTful APIs</b>, and <b>Microservices</b> using <b>Node.js</b>, and <b>NestJS</b>, along with seamless integration across both <b>SQL</b> and <b>NoSQL</b> databases.
-
-While my primary focus is backend development, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full-Stack</b> Developer when needed.
-
-I hold a Bachelor's degree in Computer Science and Engineering from Daffodil International University, Dhaka, Bangladesh, graduating in 2022. I'm actively seeking opportunities that align with my passion for backend systems, clean architecture, and impactful technology.
+Hi<img src="assets/hello.gif" width="12px" height="12px" alt="hi">, I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about building <b>scalable</b>, <b>high-performance</b> systems. I specialize in <b>Node.js</b> (including <b>NestJS</b>) and <b>Go</b>, crafting clean, maintainable <b>RESTful APIs</b> and <b>microservices</b> architectures.
+<br>
+While my primary focus is <b>backend development</b>, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full Stack Developer</b> when needed.
+<br>
+I have graduated with a bachelor's degree in <b>Computer Science & Engineering</B> from Daffodil International University, Dhaka, Bangladesh in 2022. I am available for opportunities that align with my interests.
 </p>
 
 ### 🛠️ Languages and Tools :
 
 <p style="margin-left: 40px;">
-    <img src="./assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
     <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
     <img src="./assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-    <img src="./assets/express-original.svg" title="Express" alt="Express" width="30" height="30"/>&nbsp;
+    <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/golang.png" title="Go" alt="Go" width="40" height="27"/>&nbsp;
     <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
     <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;
@@ -26,13 +26,8 @@ I hold a Bachelor's degree in Computer Science and Engineering from Daffodil Int
     <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
     <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
-    <img src="./assets/sass-1.svg" title="SASS" alt="SASS" width="30" height="30"/>&nbsp;
-    <img src="./assets/material-ui-1.svg" title="MUI" alt="MUI" width="30" height="30"/>&nbsp;
-    <img src="./assets/framer-motion.svg" title="Framer Motion" alt="Framer Motion" width="30" height="30"/>&nbsp;
-    <img src="./assets/storybook-icon.svg" title="Storybook" alt="Storybook" width="30" height="30"/>&nbsp;
-    <img src="./assets/jest.svg" title="Jest" alt="Jest" width="30" height="30"/>&nbsp;
-    <img src="./assets/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
+    <img src="./assets/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>&nbsp;
     <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
 
@@ -49,43 +44,17 @@ I hold a Bachelor's degree in Computer Science and Engineering from Daffodil Int
   <tbody>
     <tr>
       <td>
-          <a href="https://github.com/fahammed-dev/ts-node-ecommerce-server">Ecommerce API</a>
       </td>
       <td>
-          <ul>
-            <li>Implement TypeScript on Express (Node.js framework) projects</li>
-            <li>REST API desing and development with advanced features: filtering, sorting, pagination etc.</li>
-            <li>Fundamentals of Mongoose (MongoDB JS driver): Data models, CRUD operations, data validation, and middleware.</li>
-            <li>Security: encryption, sanitization, rate limiting, etc.</li>
-            <li>Authentication and authorization with JWT: user sign up, log in, password reset, secure cookies, etc.</li>
-            <li>Implement payment system</li>
+        <ul>
+          <li>
+          </li>
         </ul>
-      </td>
-        <td>
-          <ul>
-            <li>TypeScript</li>
-            <li>Node</li>
-            <li>Express</li>
-            <li>MongoDB & Mongoose ODM</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-          <a href="https://fahammed.pages.dev">Developer Portfolio</a>
       </td>
       <td>
-          <ul>
-            <li>Developing react project using TypeScript</li>
-            <li>Responsive UI design with animation</li>
-        </ul>
-      </td>
-        <td>
-          <ul>
-            <li>TypeScript</li>
-            <li>React</li>
-            <li>Tailwind CSS</li>
-            <li>Framermotion</li>
+        <ul>
+          <li>
+          </li>
         </ul>
       </td>
     </tr>
@@ -131,21 +100,6 @@ I hold a Bachelor's degree in Computer Science and Engineering from Daffodil Int
             </ul>
       </td>
     </tr>
-      <tr>
-      <td>
-          React State Management
-      </td>
-      <td>
-          <a href="#">Think in a Redux way</a> - Learn with Sumit
-      </td>
-        <td>
-            <ul>
-                <li>Enhances JavaScript and React proficiency</li>
-                <li>Better project structure</li>
-                <li>Importance of state management and how to manage it using Redux in bigger projects</li>
-            </ul>
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -161,7 +115,7 @@ I hold a Bachelor's degree in Computer Science and Engineering from Daffodil Int
   <tbody>
     <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/linux-under-the-hood-a-high-level-architectural-view">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024    
+          <a href="https://fahammed.hashnode.dev/linux-under-the-hood-a-high-level-architectural-view">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024
       </td>
       <td>
           একটি আদর্শ লিনাক্স ডিস্টিবিউশনের হাইলেভেল আর্কিটেকচার সম্পর্কে বিস্তারিত আলোচনা

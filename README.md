@@ -18,7 +18,7 @@ I have graduated with a bachelor's degree in <b>Computer Science & Engineering</
     <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
     <img src="./assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
     <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="30" height="30"/>&nbsp;
-    <img src="./assets/golang.png" title="Go" alt="Go" width="50" height="40"/>&nbsp;
+    <img src="./assets/golang.png" title="Go" alt="Go" width="80" height="60"/>&nbsp;
     <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
     <img src="./assets/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
     <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;

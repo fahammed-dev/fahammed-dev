@@ -24,6 +24,7 @@ I have graduated with a bachelor's degree in <b>Computer Science & Engineering</
     <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;
     <img src="./assets/socket-io.svg" title="Socket.io" alt="Socket.io" width="30" height="30"/>&nbsp;
     <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
+    <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
     <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;

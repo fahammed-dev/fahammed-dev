@@ -29,7 +29,6 @@ I have graduated with a bachelor's degree in <b>Computer Science & Engineering</
     <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
     <img src="./assets/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>&nbsp;
-    <img src="./assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="30" height="30"/>&nbsp;
 </p>
 
 ### 🏗️ Projects :

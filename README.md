@@ -31,6 +31,8 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 <br>
   <span style="margin-left: 20px;"><strong>🔬Testing:</strong> Jest, Supertest</span>
 <br>
+  <span style="margin-left: 20px;"><strong>💡AI:</strong> GitHub Copilot, Chatgpt</span>
+<br>
   <span style="margin-left: 20px;"><strong>🧑‍💻Coding:</strong> Visule Studio Code, Git, npm, pnpm</span>
 </p>
 

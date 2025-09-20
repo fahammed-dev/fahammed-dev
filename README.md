@@ -26,7 +26,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 - **Backend**: NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
 - **Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui
 - **Databases**: PostgreSQL, MongoDB, Redis
-- **ORM/ODM**: TypeORM, Prisma
+- **ORM/ODM**: TypeORM, Prisma, Mongoose
 
 ### ☁️ DevOps & Cloud
 
@@ -186,4 +186,6 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 
 ---
 
-> “Write code that humans can understand — machines are just along for the ride.” 🚀
+<p align="center">
+“Write code that humans can understand — machines are just along for the ride.”
+</p>

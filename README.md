@@ -13,25 +13,25 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 <p style="margin-left: 40px;">
 <b>Languages:</b>
 <br>
-  <span style="margin-left: 20px;">[Back-end]: Node.js, SQL, NoSQL</span>
+  <span style="margin-left: 20px;">🔧 Back-end: Node.js, SQL, NoSQL</span>
 <br>
-  <span style="margin-left: 20px;">[Front-end]: HTML, CSS/SCSS, JavaScript, TypeScript</span>
+  <span style="margin-left: 20px;">🖥️ Front-end: HTML, CSS/SCSS, JavaScript, TypeScript</span>
 </p>
 <p style="margin-left: 40px;">
 <b>Technologies:</b>
 <br>
-  <span style="margin-left: 20px;">[Back-end]: NestJS, Express, Fastify, GraphQL, Socket.IO, BullMQ, Redis, PostgresQL, MongoDB</span>
+  <span style="margin-left: 20px;">🔧 Back-end: NestJS, Express, Fastify, GraphQL, Socket.IO, BullMQ, Redis, PostgresQL, MongoDB</span>
 <br>
-  <span style="margin-left: 20px;">[Cloud & DevOps]: AWS (EC2, VPC, S3, SES), Cloudflare, Docker, GitHub Actions</span>
+  <span style="margin-left: 20px;">☁️ Cloud & DevOps: AWS (EC2, VPC, S3, SES), Cloudflare, Docker, GitHub Actions</span>
 <br>
-  <span style="margin-left: 20px;">[Front-end]: React, Redux, Next.js, Tailwind CSS, shadcn/ui</span>
+  <span style="margin-left: 20px;">🖥️ Front-end: React, Redux, Next.js, Tailwind CSS, shadcn/ui</span>
 </p>
 <p style="margin-left: 40px;">
 <b>Tools & Softwares:</b>
 <br>
-  <span style="margin-left: 20px;">[Testing]: Jest, Supertest</span>
+  <span style="margin-left: 20px;">🔬Testing: Jest, Supertest</span>
 <br>
-  <span style="margin-left: 20px;">[Coding]: Visule Studio Code, Git, npm, pnpm</span>
+  <span style="margin-left: 20px;">🧑‍💻Coding: Visule Studio Code, Git, npm, pnpm</span>
 </p>
 
 ### 🏗️ Projects :

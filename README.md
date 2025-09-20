@@ -1,6 +1,12 @@
 <h1 align="center">
-    Faysal Ahammed—@fahammed-dev
+  👋 Faysal Ahammed — <a href="https://github.com/fahammed-dev">@fahammed-dev</a>
 </h1>
+
+<p align="center">
+  <em>Backend Engineer • Full Stack Capable • Open Source Enthusiast • Tech Blogger</em>
+</p>
+
+---
 
 ### 🧔 About me :
 
@@ -8,33 +14,39 @@
 I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about building <b>scalable</b>, <b>high-performance</b> systems.I specialize in <b>Node.js</b>, crafting clean, maintainable <b>RESTful APIs</b> and <b>microservices</b>.While my primary focus is <b>backend development</b>, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full Stack Developer</b> when needed.I have graduated with a bachelor's degree in <b>Computer Science & Engineering</B> from Daffodil International University, Dhaka, Bangladesh in 2022. I am available for opportunities that align with my interests.
 </p>
 
-### 🛠️ Technical expertise :
+## 🛠️ Technical Expertise
 
-<p style="margin-left: 40px;">
-<b style="text-decoration: underline;">Languages:</b>
-<br>
-  <span style="margin-left: 20px;"><strong>🔧 Back-end:</strong> Node.js, SQL, NoSQL</span>
-<br>
-  <span style="margin-left: 20px;"><strong>🖥️ Front-end:</strong> HTML, CSS/SCSS, JavaScript, TypeScript</span>
-</p>
-<p style="margin-left: 40px;">
-<b style="text-decoration: underline;">Technologies:</b>
-<br>
-  <span style="margin-left: 20px;"><strong>🔧 Back-end:</strong> NestJS, Express, Fastify, GraphQL, Socket.IO, BullMQ, Redis, PostgresQL, MongoDB, TypeORM, Prisma</span>
-<br>
-  <span style="margin-left: 20px;"><strong>☁️ Cloud & DevOps:</strong> AWS (EC2, VPC, S3, SES), Cloudflare, Docker, GitHub Actions</span>
-<br>
-  <span style="margin-left: 20px;"><strong>🖥️ Front-end:</strong> React, Redux, Next.js, Tailwind CSS, shadcn/ui</span>
-</p>
-<p style="margin-left: 40px;">
-<b style="text-decoration: underline;">Tools & Softwares:</b>
-<br>
-  <span style="margin-left: 20px;"><strong>🔬Testing:</strong> Jest, Supertest</span>
-<br>
-  <span style="margin-left: 20px;"><strong>💡AI:</strong> GitHub Copilot, Chatgpt</span>
-<br>
-  <span style="margin-left: 20px;"><strong>🧑‍💻Coding:</strong> Visule Studio Code, Git, npm, pnpm</span>
-</p>
+### 💬 Languages
+
+- **Back-end**: JavaScript (Node.js), TypeScript, SQL, NoSQL
+- **Front-end**: HTML5, CSS3 / SCSS, JavaScript (ES6+), TypeScript
+
+### 🧩 Frameworks & Libraries
+
+- **Backend**: NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
+- **Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **ORM/ODM**: TypeORM, Prisma
+
+### ☁️ DevOps & Cloud
+
+- AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
+
+### 🧠 Software Engineering Principles
+
+- Object-Oriented Programming (OOP)
+- SOLID Principles & Clean Code Practices
+- Unit/Integration Testing
+- Microservices & Modular Architecture Design
+- API Design (REST, GraphQL) & Documentation (Swagger/OpenAPI)
+
+### 🧰 Tools & Productivity
+
+- **Testing**: Jest, Supertest
+- **AI Assistants**: GitHub Copilot, ChatGPT
+- **IDE & CLI**: Visual Studio Code, Git, npm, pnpm
+
+---
 
 ### 🏗️ Projects :
 
@@ -171,3 +183,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
     💼 Portfolio: <a href="https://github.com/fahammed-dev">fahammed-dev</a>
     🌐 Blog: <a href="https://fahammed.hashnode.dev">fahammed.hashnode.dev</a>
 </p>
+
+---
+
+> “Write code that humans can understand — machines are just along for the ride.” 🚀

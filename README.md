@@ -24,7 +24,6 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
     <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
     <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
     <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
-    <img src="./assets/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/>&nbsp;
 </p>
 
 ### 🏗️ Projects :

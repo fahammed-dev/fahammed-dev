@@ -8,22 +8,30 @@
 I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about building <b>scalable</b>, <b>high-performance</b> systems.I specialize in <b>Node.js</b>, crafting clean, maintainable <b>RESTful APIs</b> and <b>microservices</b>.While my primary focus is <b>backend development</b>, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full Stack Developer</b> when needed.I have graduated with a bachelor's degree in <b>Computer Science & Engineering</B> from Daffodil International University, Dhaka, Bangladesh in 2022. I am available for opportunities that align with my interests.
 </p>
 
-### 🛠️ Languages and Tools :
+### 🛠️ Technical expertise :
 
 <p style="margin-left: 40px;">
-    <img src="./assets/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
-    <img src="./assets/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-    <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="30" height="30"/>&nbsp;
-    <img src="./assets/golang.png" title="Go" alt="Go" width="30" height="30"/>&nbsp;
-    <img src="./assets/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>&nbsp;
-    <img src="./assets/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30"/>&nbsp;
-    <img src="./assets/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>&nbsp;
-    <img src="./assets/socket-io.svg" title="Socket.io" alt="Socket.io" width="30" height="30"/>&nbsp;
-    <img src="./assets/react-original.svg" title="ReactJS" alt="ReactJS" width="30" height="30"/>&nbsp;
-    <img src="./assets/nextjs-line.svg" title="NextJS" alt="NextJS" width="30" height="30"/>&nbsp;
-    <img src="./assets/redux-original.svg" title="Redux" alt="Redux" width="30" height="30"/>&nbsp;
-    <img src="./assets/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="30"/>&nbsp;
-    <img src="./assets/docker-original.svg" title="Docker" alt="Docker" width="35" height="35"/>&nbsp;
+<b>Languages:</b>
+<br>
+  <span style="margin-left: 20px;">[Back-end]: Node.js, SQL, NoSQL</span>
+<br>
+  <span style="margin-left: 20px;">[Front-end]: HTML, CSS/SCSS, JavaScript, TypeScript</span>
+</p>
+<p style="margin-left: 40px;">
+<b>Technologies:</b>
+<br>
+  <span style="margin-left: 20px;">[Back-end]: NestJS, Express, Fastify, GraphQL, Socket.IO, BullMQ, Redis, PostgresQL, MongoDB</span>
+<br>
+  <span style="margin-left: 20px;">[Cloud & DevOps]: AWS (EC2, VPC, S3, SES), Cloudflare, Docker, GitHub Actions</span>
+<br>
+  <span style="margin-left: 20px;">[Front-end]: React, Redux, Next.js, Tailwind CSS, shadcn/ui</span>
+</p>
+<p style="margin-left: 40px;">
+<b>Tools & Softwares:</b>
+<br>
+  <span style="margin-left: 20px;">[Testing]: Jest, Supertest</span>
+<br>
+  <span style="margin-left: 20px;">[Coding]: Visule Studio Code, Git, npm, pnpm</span>
 </p>
 
 ### 🏗️ Projects :

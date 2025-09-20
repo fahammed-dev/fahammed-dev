@@ -11,23 +11,23 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 ### 🛠️ Technical expertise :
 
 <p style="margin-left: 40px;">
-<b>Languages:</b>
+<b style="text-decoration: underline;">Languages:</b>
 <br>
   <span style="margin-left: 20px;"><strong>🔧 Back-end:</strong> Node.js, SQL, NoSQL</span>
 <br>
   <span style="margin-left: 20px;"><strong>🖥️ Front-end:</strong> HTML, CSS/SCSS, JavaScript, TypeScript</span>
 </p>
 <p style="margin-left: 40px;">
-<b>Technologies:</b>
+<b style="text-decoration: underline;">Technologies:</b>
 <br>
-  <span style="margin-left: 20px;"><strong>🔧 Back-end:</strong> NestJS, Express, Fastify, GraphQL, Socket.IO, BullMQ, Redis, PostgresQL, MongoDB</span>
+  <span style="margin-left: 20px;"><strong>🔧 Back-end:</strong> NestJS, Express, Fastify, GraphQL, Socket.IO, BullMQ, Redis, PostgresQL, MongoDB, TypeORM, Prisma</span>
 <br>
   <span style="margin-left: 20px;"><strong>☁️ Cloud & DevOps:</strong> AWS (EC2, VPC, S3, SES), Cloudflare, Docker, GitHub Actions</span>
 <br>
   <span style="margin-left: 20px;"><strong>🖥️ Front-end:</strong> React, Redux, Next.js, Tailwind CSS, shadcn/ui</span>
 </p>
 <p style="margin-left: 40px;">
-<b>Tools & Softwares:</b>
+<b style="text-decoration: underline;">Tools & Softwares:</b>
 <br>
   <span style="margin-left: 20px;"><strong>🔬Testing:</strong> Jest, Supertest</span>
 <br>

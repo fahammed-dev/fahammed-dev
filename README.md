@@ -34,9 +34,9 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 
 ### 🧠 Software Engineering Principles
 
-- Object-Oriented Programming (OOP)
+- Object-Oriented Analysis and Design (OOAD)
 - SOLID Principles & Clean Code Practices
-- Unit/Integration Testing
+- Unit/End-to-end Testing
 - Microservices & Modular Architecture Design
 - API Design (REST, GraphQL) & Documentation (Swagger/OpenAPI)
 

@@ -94,6 +94,25 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
           Algorithm and DataStructure
       </td>
       <td>
+          <a href="https://www.stacklearner.com/">Mastering DSA for Developers: Start Your DSA Journey</a> - Stack Learner
+      </td>
+      <td>
+            <ul>
+                <li>Complexity Analysis</li>
+                <li>Heap, Stack & Queue</li>
+                <li>Sorting & Searching</li>
+                <li>Recursion</li>
+                <li>Divide and Conquer</li>
+                <li>Dynamic Programming</li>
+                <li>Tree & Graph</li>
+            </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+          Algorithm and DataStructure
+      </td>
+      <td>
           <a href="https://www.freecodecamp.org/certification/faysalahammed/javascript-algorithms-and-data-structures">JavaScript Algorithms and DataStructures</a> - freeCodeCamp
       </td>
       <td>

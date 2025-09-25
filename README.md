@@ -26,7 +26,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 - **Backend**: NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
 - **Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui
 - **Databases**: PostgreSQL, MongoDB, Redis
-- **ORM/ODM**: Drizzle ORM,Prisma, TypeORM, Mongoose
+- **ORM/ODM**: Drizzle ORM, Prisma, TypeORM, Mongoose
 
 ### ☁️ DevOps & Cloud
 

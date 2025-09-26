@@ -150,7 +150,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
           <a href="https://fahammed.hashnode.dev/https">HTTPS with SSL/TLS</a> - Aug 7, 2023
       </td>
       <td>
-          ওয়েব অ্যাপ্লিকেশনের নিরাপদ তথ্য আদান-প্রদানের ক্ষেত্রে https এর গুরুত্ব
+          The Role of HTTPS in Safe Data Transfer
       </td>
     </tr>
       <tr>

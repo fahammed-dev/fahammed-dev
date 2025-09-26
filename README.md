@@ -131,7 +131,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
   <tbody>
     <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/linux-under-the-hood-a-high-level-architectural-view">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024
+          <a href="https://fahammed.hashnode.dev/linux-architectur">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024
       </td>
       <td>
           একটি আদর্শ লিনাক্স ডিস্টিবিউশনের হাইলেভেল আর্কিটেকচার সম্পর্কে বিস্তারিত আলোচনা
@@ -139,7 +139,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
     </tr>
     <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/linux-file-system-navigating-the-file-system-with-confidence-1">Linux File System: Navigating the File System with Confidence</a> - Feb 24, 2024
+          <a href="https://fahammed.hashnode.dev/linux-file-system">Linux File System: Navigating the File System with Confidence</a> - Feb 24, 2024
       </td>
       <td>
           লিনাক্স ফাইল স্ট্রাকচার কেমন, কিভাবে থাকে এবং প্রয়োজনীয় কমান্ড যা আপনার জানা দরকার
@@ -155,7 +155,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
     </tr>
       <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/react">রিয়েক্ট লাইব্রেরির রেন্ডারিং কৌশল</a> - May 27, 2023
+          <a href="https://fahammed.hashnode.dev/react-render">React Rendering: Understanding How It Works</a> - May 27, 2023
       </td>
       <td>
           রিয়েক্ট লাইব্রেরি আমাদের রিয়েক্ট অ্যাপ্লিকেশনের রেন্ডারিং প্রক্রিয়া যেভাবে সম্পাদন করে...

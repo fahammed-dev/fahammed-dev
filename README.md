@@ -131,7 +131,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
   <tbody>
     <tr>
       <td>
-          <a href="https://fahammed.hashnode.dev/linux-architectur">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024
+          <a href="https://fahammed.hashnode.dev/linux-architecture">Linux Under the Hood: A High-Level Architectural View</a> - Feb 23, 2024
       </td>
       <td>
           একটি আদর্শ লিনাক্স ডিস্টিবিউশনের হাইলেভেল আর্কিটেকচার সম্পর্কে বিস্তারিত আলোচনা

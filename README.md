@@ -17,7 +17,7 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 ## 🛠️ Technical Expertise
 
 ### 💬 Languages: 
-  - JavaScript (Node.js, ES6+), TypeScript, SQL, NoSQL
+  - JavaScript (Node.js, ES6+), TypeScript, Go, SQL, NoSQL
 
 ### 🧩 Backend Frameworks & Libraries: 
   - NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ

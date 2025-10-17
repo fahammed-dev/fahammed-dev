@@ -16,19 +16,26 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 
 ## 🛠️ Technical Expertise
 
-### 💬 Languages: JavaScript (Node.js, ES6+), TypeScript, SQL, NoSQL
+### 💬 Languages: 
+  - JavaScript (Node.js, ES6+), TypeScript, SQL, NoSQL
 
-### 🧩 Backend Frameworks & Libraries: NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
+### 🧩 Backend Frameworks & Libraries: 
+  - NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
 
-### 🖼️ Frontend Frameworks & Libraries: React, Next.js, Redux, Tailwind CSS, shadcn/ui
+### 🖼️ Frontend Frameworks & Libraries: 
+  - React, Next.js, Redux, Tailwind CSS, shadcn/ui
 
-### 🗄️ Databases & ORMs: PostgreSQL, MongoDB, Redis, Drizzle ORM, Prisma, TypeORM, Mongoose
+### 🗄️ Databases & ORMs: 
+  - PostgreSQL, MongoDB, Redis, Drizzle ORM, Prisma, TypeORM, Mongoose
 
-### ☁️ DevOps & Cloud: AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
+### ☁️ DevOps & Cloud: 
+  - AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
 
-### 🧠 Software Engineering: SOLID principles, OOAD, clean code, REST/GraphQL API design (Swagger/OpenAPI), microservices, unit/E2E testing (Jest, Supertest)
+### 🧠 Software Engineering: 
+  - SOLID principles, OOAD, clean code, REST/GraphQL API design (Swagger/OpenAPI), microservices, unit/E2E testing (Jest, Supertest)
 
-### 🧰 Tools: Git, npm, pnpm, Visual Studio Code, GitHub Copilot
+### 🧰 Tools: 
+  - Git, npm, pnpm, Visual Studio Code, GitHub Copilot
 
 ---
 

@@ -7,11 +7,13 @@
   </p>
 </div>
 
-### 🧔 About me :
+---
+
+### 🧔 About me:
 
 Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **NestJS**, **TypeScript**, and **Go** to build **scalable APIs** and **AI-powered solutions**. Proficient in **AWS**, **microservices**, and **React/Next.js** for full-stack needs.
 
-### 🛠️ Technical Expertise
+### 🛠️ Technical Expertise:
 
 **🧩 Backend**: Node.js, NestJS, Go, GraphQL, Socket.IO, BullMQ, Redis, AWS Lambda, Cloudflare Workers \
 **💻 Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui \
@@ -19,7 +21,7 @@ Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **Nes
 **🛠️ DevOps**: Docker, AWS (EC2, VPC, S3), Cloudflare, GitHub Actions \
 **📘 Practices**: SOLID, clean code, REST/GraphQL APIs
 
-### 🏗️ Projects :
+### 🏗️ Projects:
 
 <table>
   <thead align="center">
@@ -49,7 +51,7 @@ Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **Nes
   </tbody>
 </table>
 
-### 📑 Courses & Certifications :
+### 📑 Courses & Certifications:
 
 <table>
   <thead align="center">
@@ -90,7 +92,7 @@ Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **Nes
   </tbody>
 </table>
 
-### 📰 Blog Posts & Notes :
+### 📰 Blog Posts & Notes:
 
 <table>
   <thead align="center">

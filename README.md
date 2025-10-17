@@ -6,7 +6,7 @@
 
 Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **NestJS**, **TypeScript**, and **Go** to build **scalable APIs** and **AI-powered solutions**. Proficient in **AWS**, **microservices**, and **React/Next.js** for full-stack needs.
 
-## 🛠️ Technical Expertise
+### 🛠️ Technical Expertise
 
 **🧩 Backend**: Node.js, NestJS, Go, GraphQL, Socket.IO, BullMQ, Redis, AWS Lambda, Cloudflare Workers \
 **💻 Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui \

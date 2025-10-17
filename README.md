@@ -26,8 +26,6 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 
 ### ☁️ DevOps & Cloud: AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
 
-- AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
-
 ### 🧠 Software Engineering: SOLID principles, OOAD, clean code, REST/GraphQL API design (Swagger/OpenAPI), microservices, unit/E2E testing (Jest, Supertest)
 
 ### 🧰 Tools: Git, npm, pnpm, Visual Studio Code, GitHub Copilot

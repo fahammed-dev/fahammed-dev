@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Backend Engineer • Full Stack Capable • Open Source Enthusiast • Tech Blogger</em>
+  <em>Backend Engineer • Full Stack Capable • Open Source Enthusiast</em>
 </p>
 
 ---

@@ -16,35 +16,21 @@ I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about buil
 
 ## 🛠️ Technical Expertise
 
-### 💬 Languages
+### 💬 Languages: JavaScript (Node.js, ES6+), TypeScript, SQL, NoSQL
 
-- **Back-end**: JavaScript (Node.js), TypeScript, SQL, NoSQL
-- **Front-end**: HTML5, CSS3 / SCSS, JavaScript (ES6+), TypeScript
+### 🧩 Backend Frameworks & Libraries: NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
 
-### 🧩 Frameworks & Libraries
+### 🖼️ Frontend Frameworks & Libraries: React, Next.js, Redux, Tailwind CSS, shadcn/ui
 
-- **Backend**: NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
-- **Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui
-- **Databases**: PostgreSQL, MongoDB, Redis
-- **ORM/ODM**: Drizzle ORM, Prisma, TypeORM, Mongoose
+### 🗄️ Databases & ORMs: PostgreSQL, MongoDB, Redis, Drizzle ORM, Prisma, TypeORM, Mongoose
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud: AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
 
 - AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
 
-### 🧠 Software Engineering Principles
+### 🧠 Software Engineering: SOLID principles, OOAD, clean code, REST/GraphQL API design (Swagger/OpenAPI), microservices, unit/E2E testing (Jest, Supertest)
 
-- Object-Oriented Analysis and Design (OOAD)
-- SOLID Principles & Clean Code Practices
-- Unit/End-to-end Testing
-- Microservices & Modular Architecture Design
-- API Design (REST, GraphQL) & Documentation (Swagger/OpenAPI)
-
-### 🧰 Tools & Productivity
-
-- **Testing**: Jest, Supertest
-- **AI Assistants**: GitHub Copilot, ChatGPT
-- **IDE & CLI**: Visual Studio Code, Git, npm, pnpm
+### 🧰 Tools: Git, npm, pnpm, Visual Studio Code, GitHub Copilot
 
 ---
 

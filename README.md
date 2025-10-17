@@ -2,6 +2,12 @@
   Faysal Ahammed — <a href="https://github.com/fahammed-dev">@fahammed-dev</a>
 </h1>
 
+<p align="center">
+  <em>Backend Engineer • Full Stack Capable • Open Source Enthusiast • Tech Blogger</em>
+</p>
+
+---
+
 ### 🧔 About me :
 
 Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **NestJS**, **TypeScript**, and **Go** to build **scalable APIs** and **AI-powered solutions**. Proficient in **AWS**, **microservices**, and **React/Next.js** for full-stack needs.

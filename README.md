@@ -1,14 +1,6 @@
-<div align="center">
-  <strong>
-  Faysal Ahammed —
-  <a href="https://github.com/fahammed-dev" style="text-decoration: none">
-  @fahammed-dev
-  </a>
-  </strong>
-  <p>
-  <em>Backend Engineer • Full Stack Capable • Open Source Enthusiast • Tech Blogger</em>
-</p>
-</div>
+<h1 align="center">
+  Faysal Ahammed — <a href="https://github.com/fahammed-dev">@fahammed-dev</a>
+</h1>
 
 ---
 

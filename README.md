@@ -1,8 +1,8 @@
 <div align="center">
-  <span style="font-size: 2.5em; font-weight: bold;">Faysal Ahammed — <a href="https://github.com/fahammed-dev">@fahammed-dev</a></span>
-  <span align="center"> <br>
+  <strong>Faysal Ahammed — <a href="https://github.com/fahammed-dev">@fahammed-dev</a></strong>
+  <p>
   <em>Backend Engineer • Full Stack Capable • Open Source Enthusiast • Tech Blogger</em>
-</span>
+</p>
 </div>
 
 ---

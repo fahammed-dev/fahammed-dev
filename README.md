@@ -10,32 +10,15 @@
 
 ### 🧔 About me :
 
-<p align="justify" style="margin-left: 40px;">
-I'm a self-taught <b>Backend Engineer</b> from Bangladesh, passionate about building <b>scalable</b>, <b>high-performance</b> systems.I specialize in <b>Node.js</b>, crafting clean, maintainable <b>RESTful APIs</b> and <b>microservices</b>.While my primary focus is <b>backend development</b>, I also have experience crafting dynamic and responsive user interfaces with <b>React.js</b>, making me a well-rounded <b>Full Stack Developer</b> when needed.I have graduated with a bachelor's degree in <b>Computer Science & Engineering</B> from Daffodil International University, Dhaka, Bangladesh in 2022. I am available for opportunities that align with my interests.
-</p>
+Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **NestJS**, **TypeScript**, and **Go** to build **scalable APIs** and **AI-powered solutions**. Proficient in **AWS**, **microservices**, and **React/Next.js** for full-stack needs.
 
 ## 🛠️ Technical Expertise
 
-### 💬 Languages: 
-  - JavaScript (Node.js, ES6+), TypeScript, Go, SQL, NoSQL
-
-### 🧩 Backend Frameworks & Libraries: 
-  - NestJS, Express.js, Fastify, GraphQL, Socket.IO, BullMQ
-
-### 🖼️ Frontend Frameworks & Libraries: 
-  - React, Next.js, Redux, Tailwind CSS, shadcn/ui
-
-### 🗄️ Databases & ORMs: 
-  - PostgreSQL, MongoDB, Redis, Drizzle ORM, Prisma, TypeORM, Mongoose
-
-### ☁️ DevOps & Cloud: 
-  - AWS (EC2, S3, VPC, SES), Docker, GitHub Actions, Cloudflare
-
-### 🧠 Software Engineering: 
-  - SOLID principles, OOAD, clean code, REST/GraphQL API design (Swagger/OpenAPI), microservices, unit/E2E testing (Jest, Supertest)
-
-### 🧰 Tools: 
-  - Git, npm, pnpm, Visual Studio Code, GitHub Copilot
+**🧩 Backend**: Node.js, NestJS, Express.js, Fastify, TypeScript, Go, GraphQL, Socket.IO, BullMQ, Redis, AWS Lambda, Cloudflare Workers \
+**💻 Frontend**: React, Next.js, Redux, Tailwind CSS, shadcn/ui \
+**🛢️ Databases**: PostgreSQL, MongoDB \
+**🛠️ DevOps**: Docker, AWS (EC2, VPC, S3), Cloudflare, GitHub Actions \
+**📘 Practices**: SOLID, clean code, REST/GraphQL APIs
 
 ---
 

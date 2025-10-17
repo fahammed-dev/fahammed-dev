@@ -2,8 +2,6 @@
   Faysal Ahammed — <a href="https://github.com/fahammed-dev">@fahammed-dev</a>
 </h1>
 
----
-
 ### 🧔 About me :
 
 Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **NestJS**, **TypeScript**, and **Go** to build **scalable APIs** and **AI-powered solutions**. Proficient in **AWS**, **microservices**, and **React/Next.js** for full-stack needs.
@@ -15,8 +13,6 @@ Self-taught Backend Engineer from Bangladesh, specializing in **Node.js**, **Nes
 **🛢️ Databases**: PostgreSQL, MongoDB \
 **🛠️ DevOps**: Docker, AWS (EC2, VPC, S3), Cloudflare, GitHub Actions \
 **📘 Practices**: SOLID, clean code, REST/GraphQL APIs
-
----
 
 ### 🏗️ Projects :
 
